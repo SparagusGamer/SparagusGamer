@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SparagusGamer
 - 👀 I’m interested in Programing and electronics
-- 🌱 I’m currently learning Programing and electronics
+- 🌱 I’m currently learning programing and electronics
 - 💞️ I’m looking to collaborate on electronics
 - 📫 How to reach me you need to understand computer science and electronics
 
