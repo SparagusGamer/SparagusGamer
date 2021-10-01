@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning html, css and Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with code
 - 💬 Ask me about ... 
