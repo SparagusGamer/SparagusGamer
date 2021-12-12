@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a website
-- 🌱 I’m currently learning html, css and Javascript
+- 🔭 I’m currently working on a ---
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with code
+- 🤔 I’m looking for help with Python
 - 💬 Ask me about ... 
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
