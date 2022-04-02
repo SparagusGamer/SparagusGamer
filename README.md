@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't program in Javascript. 
 
-Click [here](https://gist.github.com/SparagusGamer) to viev my gists!
+Click [here](https://gist.github.com/SparagusGamer) to view my gists!
 
